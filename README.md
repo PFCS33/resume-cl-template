@@ -17,9 +17,16 @@ A LaTeX template package for job applications — resume and cover letter in one
 
 ## Preview
 
-| Resume | Cover Letter |
-|:---:|:---:|
-| ![Resume Preview](preview/resume.png) | ![Cover Letter Preview](preview/cover-letter.png) |
+<table>
+  <tr>
+    <th>Resume</th>
+    <th>Cover Letter</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="preview/resume.png" width="400" /></td>
+    <td valign="top"><img src="preview/cover-letter.png" width="400" /></td>
+  </tr>
+</table>
 
 ## Project Structure
 
